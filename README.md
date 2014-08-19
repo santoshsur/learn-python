@@ -1,4 +1,4 @@
 learn-python
 ============
 
-This is my project to learn python
+These is my projct to learn python
